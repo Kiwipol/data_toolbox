@@ -1,0 +1,17 @@
+setup GIT:
+git config --global user.name Kazik
+git config --global user.email kazikch@gmail.com
+
+
+git config --list
+
+git help -a
+
+
+Cloning repository:
+git clone https://github.com/....
+
+more info...
+https://help.github.com/articles/fork-a-repo
+hhtp://git-scm.com/book/enGit-Basic-Getitng-a-Git-Repository
+
