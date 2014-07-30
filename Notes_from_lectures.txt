@@ -1,0 +1,13 @@
+Note from lectures:
+
+Correlation does not imply causation
+
+Exploratory analysis:
+
+Inferential analysis:
+
+Predictive analysis: 
+
+Causal analysis: 
+
+Mechanistic analysis: - pyysical/engineering science
