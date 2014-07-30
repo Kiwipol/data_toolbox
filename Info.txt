@@ -28,6 +28,12 @@ git checkout -b branchname (name of other repository)
 git branch
 git checkout master
 
+Save files on GitHub:
+
+git remote add origin https://github.com/Kiwipol/data_toolbox.git
+
+git push -u origin master
+
 -----------------------------------------------------------------
 
 Markdown help
