@@ -10,8 +10,60 @@ git help -a
 
 Cloning repository:
 git clone https://github.com/....
-
+-----------------------------------------------------------------
 more info...
 https://help.github.com/articles/fork-a-repo
 hhtp://git-scm.com/book/enGit-Basic-Getitng-a-Git-Repository
+http://git-scm.com/doc
+https://help.github.com
+Google/Stack Overflow 
+-----------------------------------------------------------------
+
+GIT Commands:
+git add . adds all new files
+git add -u updates tracking for files that changed names or were deleted
+git add -A does both of the previous
+git commit -m "info file"
+git checkout -b branchname (name of other repository)
+git branch
+git checkout master
+
+-----------------------------------------------------------------
+
+Markdown help
+http://daringfireball.net/projects/markdown/
+R markdown MD button in Rstudio
+
+markdown syntax:
+
+Headings 
+## This is a scondary heading
+### This is a tertiary heading
+ 
+Unordered Lists
+* first item in list
+* second item in list
+* third item in list
+
+
+-------------------------------------------------------------------
+R Packages
+CRAN
+
+e.g. - install.packages(c("slidify","ggplot2"))
+
+Install an R packages  from Bioconductor
+source("http://bioconductor.org/biocLite.R")
+biocLite()
+biocLite(c("GenomicFeaturs", "AnotationDbi"))
+
+once you load you need to use by executing library(ggplot2) e.g.
+search()
+
+installing package rdevtools:
+find.package("devtools")
+install.packages("devtools")
+library(devtools)
+find_rtools()
+
 
